@@ -1,7 +1,7 @@
 # scp2
 
 This is the fork repo from [spmjs/node-scp2](https://github.com/spmjs/node-scp2). Please check original repo to see all of reference.  
-This README.md show only functions that are newly added.
+This README.md shows only functions that are newly added.
 
 ## Low level API
 
